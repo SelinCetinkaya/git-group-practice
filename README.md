@@ -1,3 +1,1 @@
-# git-group-practice
-
-first commit
+# test change
